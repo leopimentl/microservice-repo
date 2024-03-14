@@ -4,4 +4,4 @@ spring:
     username: root
     password: 1234567
   jpa:
-    hibernate: ddl-auto:create
+    hibernate: ddl-auto:update
